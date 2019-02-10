@@ -7,4 +7,4 @@ Block
 
 
 
-![alt text](https://github.com/Subhanc/BlockVote/blob/master/Screenshots/Screenshot1.jpg)
+<center>![home page](https://github.com/Subhanc/BlockVote/blob/master/Screenshots/Screenshot1.jpg)</center>
