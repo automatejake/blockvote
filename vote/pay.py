@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+pay#!/usr/bin/env python
 
 from crypto.configuration.network import set_custom_network
 from crypto.transactions.builder.transfer import Transfer
