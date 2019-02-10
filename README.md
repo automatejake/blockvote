@@ -1,5 +1,9 @@
-# blockvote
+# Blockvote
 Winner at the Princeton Hackathon
+
+<p align="center"> 
+<img src="https://github.com/Subhanc/BlockVote/blob/master/Screenshots/Screenshot1.jpg" alt="home screen">
+</p>
 
 
 <h2>Inspiration</h2>
@@ -25,6 +29,3 @@ What's next for Block Vote
 Expand Block Vote’s applicability in other areas requiring decentralized and trusted security, hence, introducing a universal initiative.
 
 
-<p align="center"> 
-<img src="https://github.com/Subhanc/BlockVote/blob/master/Screenshots/Screenshot1.jpg" alt="home screen">
-</p>
